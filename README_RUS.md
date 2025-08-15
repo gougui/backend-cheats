@@ -3150,6 +3150,7 @@
 ## Дополнительные и похожие ресурсы
 
 -   [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
+-   [LabEx – Интерактивная платформа для изучения программирования с практическими лабораториями для Linux, Python, Docker, Kubernetes и других технологий](https://labex.io/)
 -   [Профессия: бэкенд-разработчик](https://habr.com/ru/company/ruvds/blog/488340/)
 -   [Backend Roadmap (from Junior to Senior)](https://github.com/bzick/oh-my-backend)
 -   [A curated and opinionated list of resources (English & Russian) for Backend developers](https://github.com/zhashkevych/awesome-backend)

@@ -3060,6 +3060,7 @@ Testing is the process of assessing that all parts of the program behave as expe
 ## Additional and similar resources
 
 -   [Backend Developer Roadmap: Learn to become a modern backend developer](https://roadmap.sh/backend)
+-   [LabEx – Interactive programming learning platform with hands-on labs for Linux, Python, Docker, Kubernetes and more](https://labex.io/)
 -   [Hussein Nasser – YouTube channel about network engineering](https://www.youtube.com/c/HusseinNasser-software-engineering)
 -   [A curated and opinionated list of resources for Backend developers](https://github.com/zhashkevych/awesome-backend)
 -   [Most important skills for Backend Developer](https://www.crio.do/blog/backend-development-career/)
